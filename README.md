@@ -1,5 +1,4 @@
 # Simple Web Site
-# Poem and Image Display
 
 This project showcases the poem "Alone" by Edgar Allan Poe, reflecting the unique perspective and emotional depth characteristic of Poe's work. Accompanying the poem is a visually striking image that complements the themes of solitude and introspection.
 
